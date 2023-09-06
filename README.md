@@ -14,12 +14,12 @@
 - Connaissance de base en conception de niveaux de jeux vidéos
 
 ## Logiciels
-- **Aseprite**
-- **Maya**
-- **Photoshop**
-- **Roblox Studio**
-- **Figma**
-- **Visual Studio Code**
+- **Aseprite** <img src="img/asepritelogo.png" alt="Aseprite Logo" style="width:25px; height:25px;">
+- **Maya** <img src="img/mayalogo.png" alt="Aseprite Logo" style="width:25px; height:25px;">
+- **Photoshop** <img src="img/photoshoplogo.png" alt="Aseprite Logo" style="width:25px; height:25px;">
+- **Roblox Studio** <img src="img/robloxstudiologo.png" alt="Aseprite Logo" style="width:25px; height:25px;">
+- **Figma** <img src="img/figmalogo.png" alt="Aseprite Logo" style="width:17px; height:25px;">
+- **Visual Studio Code** <img src="img/vscodelogo.png" alt="Aseprite Logo" style="width:25px; height:25px;">
 
 ## Qualités
 - Ponctuel
