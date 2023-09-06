@@ -6,10 +6,13 @@
 - Apte dans la création du pixel art
 - Apte en Photoshop
 - Habile en JavaScript, HTML et CSS
+- Connaissance de base en LUA
 - Connaissance de base en conception de niveaux de jeux vidéos
 
 # Logiciels
 - Aseprite
 - Maya
 - Photoshop
+- Roblox Studio
 - Figma
+- Visual Studio Code
