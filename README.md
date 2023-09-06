@@ -11,12 +11,17 @@
 - Apte en **Photoshop**
 - Habile en **JavaScript**, **HTML** et **CSS**
 - Connaissance de base en **LUA**
-- Connaissance de base en **conception de niveaux de jeux vidéos**
+- Connaissance de base en conception de niveaux de jeux vidéos
 
 ## Logiciels
-- Aseprite
-- Maya
-- Photoshop
-- Roblox Studio
-- Figma
-- Visual Studio Code
+- **Aseprite**
+- **Maya**
+- **Photoshop**
+- **Roblox Studio**
+- **Figma**
+- **Visual Studio Code**
+
+## Qualités
+- Ponctuel
+- Créatif
+- 
