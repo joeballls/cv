@@ -2,6 +2,9 @@
 Étudiant de TIM au Collège Montmorency
 
 ## Formation
+**Concentration Multimédia**<br>
+[Mont-de-La Salle](https://montdelasalle.cslaval.qc.ca/) (2018 - 2021)
+
 **Technique d'intégration multimedia** (Diplome d'Étude Collégial) <br>
 [Collège Montmorency](https://www.cmontmorency.qc.ca/) (2021 - 2024)
 
