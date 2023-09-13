@@ -19,8 +19,10 @@ Apprendre davantage sur ce domaine et améliorer mes compétences.
 
 Groupe ROBLOX qui développe des petits jeux de temps en temps.
 
-- Crée des modèles 3D et des animations utilisés dans les jeux suivant:
-
+- Créé des modèles 3D et des animations utilisés dans les jeux suivant:
+  - [SCP: Facility Breach](https://www.roblox.com/games/10192723897/SCP-Facility-Breach)
+  - [Deathsworn](https://www.roblox.com/games/13202913676/Deathsworn)
+  
 ## Compétences
 - Apte en **modélisation 3D**
 - Apte dans la création du **pixel art**
