@@ -1,12 +1,25 @@
 # Quoc Huy Do
 Étudiant de TIM au Collège Montmorency
 
+## Objectif
+Apprendre davantage sur ce domaine et améliorer mes compétences.
+
 ## Formation
-**Concentration Multimédia**<br>
-[Mont-de-La Salle](https://montdelasalle.cslaval.qc.ca/) (2018 - 2021)
 
 **Technique d'intégration multimedia** (Diplome d'Étude Collégial) <br>
 [Collège Montmorency](https://www.cmontmorency.qc.ca/) (2021 - 2024)
+
+**Concentration Multimédia**<br>
+[Mont-de-La Salle](https://montdelasalle.cslaval.qc.ca/) (2018 - 2021)
+
+## Expérience
+
+**Modélisateur et Animateur 3D**<br>
+[TLL Studios](https://www.roblox.com/groups/2755650/TLL-Studios#!/about) (2022 - Présent)
+
+Groupe ROBLOX qui développe des petits jeux de temps en temps.
+
+- Crée des modèles 3D et des animations utilisés dans les jeux suivant:
 
 ## Compétences
 - Apte en **modélisation 3D**
