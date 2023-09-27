@@ -6,7 +6,7 @@ Apprendre davantage sur ce domaine et améliorer mes compétences.
 
 ## Formation
 
-**Technique d'intégration multimedia** (Diplome d'Étude Collégial) <br>
+**Techniques d'intégration multimedia** (Diplome d'Étude Collégial) <br>
 [Collège Montmorency](https://www.cmontmorency.qc.ca/) (2021 - 2024)
 
 **Concentration Multimédia**<br>
