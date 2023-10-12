@@ -2,7 +2,7 @@
 Étudiant de TIM au Collège Montmorency
 
 ## Objectif
-Apprendre davantage sur ce domaine et améliorer mes compétences.
+Apprendre davantage sur ce domaine et améliorer mes compétences en modélisation 3D et sprite art.
 
 ## Formation
 
@@ -28,8 +28,8 @@ Groupe ROBLOX qui développe des petits jeux de temps en temps.
 - Apte dans la création du **pixel art**
 - Apte en **Photoshop**
 - Habile en **JavaScript**, **HTML** et **CSS**
-- Connaissance de base en **LUA**
-- Connaissance de base en conception de niveaux de jeux vidéos
+- Connaissances de base en **LUA**
+- Connaissances de base en conception de niveaux de jeux vidéos
 
 ## Logiciels
 - <img src="img/asepritelogo.png" alt="Aseprite Logo" style="width:25px; height:25px;"> **Aseprite**
