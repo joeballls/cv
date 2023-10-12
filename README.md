@@ -2,7 +2,7 @@
 Étudiant de TIM au Collège Montmorency
 
 ## Objectif
-Apprendre davantage sur ce domaine et améliorer mes compétences en modélisation 3D et sprite art.
+Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences en modélisation 3D et sprite art.
 
 ## Formation
 
