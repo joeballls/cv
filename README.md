@@ -9,7 +9,7 @@ Apprendre davantage sur ce domaine et améliorer mes compétences en modélisati
 **Techniques d'intégration multimedia** (Diplome d'Étude Collégial) <br>
 [Collège Montmorency](https://www.cmontmorency.qc.ca/) (2021 - 2024)
 
-**Concentration Multimédia**<br>
+**Concentration Multimédia** (Diplome d'Étude Secondaire) <br>
 [Mont-de-La Salle](https://montdelasalle.cslaval.qc.ca/) (2018 - 2021)
 
 ## Expérience
