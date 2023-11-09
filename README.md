@@ -27,6 +27,7 @@ Groupe ROBLOX qui développe des petits jeux de temps en temps.
 - Apte en **modélisation 3D**
 - Apte dans la création du **pixel art**
 - Apte en **Photoshop**
+- Habile en **Montage vidéo**
 - Habile en **JavaScript**, **HTML** et **CSS**
 - Connaissances de base en **LUA**
 - Connaissances de base en conception de niveaux de jeux vidéos
@@ -35,6 +36,7 @@ Groupe ROBLOX qui développe des petits jeux de temps en temps.
 - <img src="img/asepritelogo.png" alt="Aseprite Logo" style="width:25px; height:25px;"> **Aseprite**
 - <img src="img/mayalogo.png" alt="Maya Logo" style="width:25px; height:25px;"> **Maya**
 - <img src="img/photoshoplogo.png" alt="Photoshop Logo" style="width:25px; height:25px;"> **Photoshop**
+- <img src="img/davinci_logo.png" alt="Davinci Resolve Logo" style="width:25px; height:25px;"> **DaVinci Resolve**
 - <img src="img/figmalogo.png" alt="Figma Logo" style="width:25px; height:25px;"> **Figma**
 - <img src="img/vscodelogo.png" alt="VSC Logo" style="width:25px; height:25px;"> **Visual Studio Code**
 - <img src="img/robloxstudiologo.png" alt="Roblox Studio Logo" style="width:25px; height:25px;"> **Roblox Studio**
