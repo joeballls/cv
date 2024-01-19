@@ -34,10 +34,11 @@ Groupe ROBLOX qui développe des petits jeux de temps en temps.
 
 ## Logiciels
 - <img src="img/asepritelogo.png" alt="Aseprite Logo" style="width:25px; height:25px;"> **Aseprite**
-- <img src="img/mayalogo.png" alt="Maya Logo" style="width:25px; height:25px;"> **Maya**
+- <img src="img/blenderlogo.png" alt="Blender Logo" style="width:25px; height:25px;"> **Blender**
 - <img src="img/photoshoplogo.png" alt="Photoshop Logo" style="width:25px; height:25px;"> **Photoshop**
 - <img src="img/davinci_logo.png" alt="Davinci Resolve Logo" style="width:25px; height:25px;"> **DaVinci Resolve**
 - <img src="img/figmalogo.png" alt="Figma Logo" style="width:25px; height:25px;"> **Figma**
+- <img src="img/mayalogo.png" alt="Maya Logo" style="width:25px; height:25px;"> **Maya**
 - <img src="img/vscodelogo.png" alt="VSC Logo" style="width:25px; height:25px;"> **Visual Studio Code**
 - <img src="img/robloxstudiologo.png" alt="Roblox Studio Logo" style="width:25px; height:25px;"> **Roblox Studio**
 
