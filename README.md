@@ -2,7 +2,7 @@
 Étudiant de TIM au Collège Montmorency
 
 ## Objectif
-Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences en modélisation 3D et sprite art.
+Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences en modélisation 3D et pixel art.
 
 ## Formation
 
@@ -13,6 +13,11 @@ Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences 
 [Mont-de-La Salle](https://montdelasalle.cslaval.qc.ca/) (2018 - 2021)
 
 ## Expérience
+
+**Stagiaire en graphic design**<br>
+[Immersia](https://immersia.ca/) (Été 2024)
+
+- Pour la dernière session de CEGEP, j'ai fais un stage chez Immersia, une compagnie de jeux d'évasion. Mon mandat était de faire les éléments visuels tel que les interfaces pour des écrans et des cartes d'accès pour leur prochain jeu d'évasion.
 
 **Modélisateur et Animateur 3D**<br>
 [TLL Studios](https://www.roblox.com/groups/2755650/TLL-Studios#!/about) (2022 - Présent)
