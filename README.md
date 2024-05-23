@@ -1,5 +1,5 @@
 # Quoc Huy Do
-Étudiant de TIM au Collège Montmorency
+Récemment diplômé du Collège Montmorency en Techniques d'Intégration Multimédia!
 
 ## Objectif
 Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences en modélisation 3D et pixel art.
