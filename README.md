@@ -17,7 +17,7 @@ Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences 
 **Stagiaire en graphic design**<br>
 [Immersia](https://immersia.ca/) (Été 2024)
 
-- Pour la dernière session de CEGEP, j'ai fais un stage chez Immersia, une compagnie de jeux d'évasion. Mon mandat était de faire les éléments visuels tel que les interfaces pour des écrans et des cartes d'accès pour leur prochain jeu d'évasion.
+- Pour la dernière session de CEGEP, j'ai fais un stage chez Immersia, une compagnie de jeux d'évasion. Mon mandat était de faire les éléments visuels tel que les interfaces pour des écrans et des cartes d'accès pour leur prochain jeu d'évasion. Images ne sont pas encore disponible sur mon portfolio puisque le jeu est encore en développement.
 
 **Modélisateur et Animateur 3D**<br>
 [TLL Studios](https://www.roblox.com/groups/2755650/TLL-Studios#!/about) (2022 - Présent)
