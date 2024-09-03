@@ -45,7 +45,6 @@ Groupe ROBLOX qui développe des petits jeux de temps en temps.
 - <img src="img/figmalogo.png" alt="Figma Logo" style="width:25px; height:25px;"> **Figma**
 - <img src="img/mayalogo.png" alt="Maya Logo" style="width:25px; height:25px;"> **Maya**
 - <img src="img/vscodelogo.png" alt="VSC Logo" style="width:25px; height:25px;"> **Visual Studio Code**
-- <img src="img/robloxstudiologo.png" alt="Roblox Studio Logo" style="width:25px; height:25px;"> **Roblox Studio**
 
 ## Qualités
 - Ponctuel
