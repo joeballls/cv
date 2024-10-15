@@ -1,8 +1,7 @@
 # Quoc Huy Do
-Récemment diplômé du Collège Montmorency en Techniques d'Intégration Multimédia!
 
 ## Objectif
-Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences en modélisation 3D et pixel art.
+Apprendre de nouvelles compétences et améliorer m'améliorer en modélisation 3D, pixel art et design.
 
 ## Formation
 
@@ -24,9 +23,10 @@ Apprendre davantage sur le domaine du jeu vidéo et améliorer mes compétences 
 
 Groupe ROBLOX qui développe des petits jeux de temps en temps.
 
-- Créé des modèles 3D et des animations utilisés dans les jeux suivant:
+- Modélisateur 3D, Animateur, Concepteur et Artiste dans les jeux suivant:
   - [SCP: Facility Breach](https://www.roblox.com/games/10192723897/SCP-Facility-Breach)
   - [Deathsworn](https://www.roblox.com/games/13202913676/Deathsworn)
+  - [Anime Girl RNG](https://www.roblox.com/games/17247823100/Anime-Girl-RNG)
   
 ## Compétences
 - Apte en **modélisation 3D**
@@ -34,8 +34,13 @@ Groupe ROBLOX qui développe des petits jeux de temps en temps.
 - Apte en **Photoshop**
 - Habile en **Montage vidéo**
 - Habile en **JavaScript**, **HTML** et **CSS**
-- Connaissances de base en **LUA**
 - Connaissances de base en conception de niveaux de jeux vidéos
+
+## Prix
+- Concours d'essai audiovisuel de la Techniques d'intégration multimédia (2024)
+
+## Nominations
+- Concours d'essai audiovisuel de la Techniques d'intégration multimédia (2023)
 
 ## Logiciels
 - <img src="img/asepritelogo.png" alt="Aseprite Logo" style="width:25px; height:25px;"> **Aseprite**
