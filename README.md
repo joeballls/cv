@@ -18,10 +18,10 @@ Apprendre de nouvelles compétences et améliorer m'améliorer en modélisation 
 
 - Pour la dernière session de CÉGEP, j'ai fait un stage chez Immersia, une compagnie de jeux d'évasion. Mon mandat était de faire les éléments visuels tels que les interfaces pour des écrans et des cartes d'accès pour leur prochain jeu d'évasion. Images ne sont pas encore disponible sur mon portfolio puisque le jeu est encore en développement.
 
-**Modélisateur et Animateur 3D**<br>
+**Modélisateur 3D Principal et Artiste Principal**<br>
 [TLL Studios](https://www.roblox.com/groups/2755650/TLL-Studios#!/about) (2020 - Présent)
 
-Groupe ROBLOX qui développe des petits jeux de temps en temps.
+Je suis le modélisateur 3D principal et l’artiste principal dans TLL Studios, un groupe ROBLOX qui développe des petits jeux de temps en temps. En total, nos jeux ont atteint 6.5 millions de visites durant le temps de rédaction.
 
 - Modélisateur 3D, Animateur, Concepteur et Artiste dans les jeux suivant:
   - [SCP: Facility Breach](https://www.roblox.com/games/10192723897/SCP-Facility-Breach)
