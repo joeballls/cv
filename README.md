@@ -5,7 +5,7 @@ Apprendre de nouvelles compétences et améliorer m'améliorer en modélisation 
 
 ## Formation
 
-**Techniques d'intégration multimedia** (Diplome d'Étude Collégial) <br>
+**Techniques d'intégration multimédia** (Diplome d'Étude Collégial) <br>
 [Collège Montmorency](https://www.cmontmorency.qc.ca/) (2021 - 2024)
 
 **Concentration Multimédia** (Diplome d'Étude Secondaire) <br>
