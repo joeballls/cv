@@ -19,7 +19,7 @@ Apprendre de nouvelles compétences et améliorer m'améliorer en modélisation 
 - Pour la dernière session de CEGEP, j'ai fais un stage chez Immersia, une compagnie de jeux d'évasion. Mon mandat était de faire les éléments visuels tel que les interfaces pour des écrans et des cartes d'accès pour leur prochain jeu d'évasion. Images ne sont pas encore disponible sur mon portfolio puisque le jeu est encore en développement.
 
 **Modélisateur et Animateur 3D**<br>
-[TLL Studios](https://www.roblox.com/groups/2755650/TLL-Studios#!/about) (2022 - Présent)
+[TLL Studios](https://www.roblox.com/groups/2755650/TLL-Studios#!/about) (2020 - Présent)
 
 Groupe ROBLOX qui développe des petits jeux de temps en temps.
 
